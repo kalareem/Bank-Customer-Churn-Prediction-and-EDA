@@ -1,4 +1,5 @@
 Conclusion
+
 According to Dataset there are Churn 20.4% and Non-churn 79.6%
 The 6 main factor that affects the target are 1. Age 2. Estimate salary 3. Credit score 4. Balance 5. Product number 6. Tenure 
 according to the Feature Importance bar chart.
